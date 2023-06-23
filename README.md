@@ -5,5 +5,6 @@ Employing 2 classes of algorithms to train RL agents to play Lunar Lander: DQN a
 Please refer to the README.md in the 2 subfolders for installation and execution of the relevant algorithms.
 
 https://github.com/ericdong314/rl-lunar-lander/assets/56725529/2d13ca76-2c49-47cb-b1d4-57cfc4807749
+
 (Credit to @jeffyfung for PPO implementation; Video recorded by Henry Liu)
 
