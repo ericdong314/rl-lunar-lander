@@ -1,6 +1,6 @@
-# Training RL agent to play Lunar Lander
+# Training Lunar Lander RL agents
 
-Employing 2 classes of algorithms to train RL agents to play Lunar Lander: DQN algorithms and PPO algorithms. Within each family, variants of the algorithms are implemented.
+Employing 2 classes of algorithms (DQN and PPO) in training RL agents to solve a classic rocket trajectory optimization problem [Lunar Lander](https://gymnasium.farama.org/environments/box2d/lunar_lander/). Within each family, variants of the algorithms are implemented.
 
 
 Please refer to the README.md in the 2 subfolders for installation and execution of the relevant algorithms.
